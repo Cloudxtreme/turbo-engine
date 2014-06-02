@@ -1,4 +1,9 @@
-turbo-engine
-============
+# OpenWP Turbo Engine
 
-Turbo Engine is command-line control panel for WordPress sites running on HHVM, Docker, Nginx, MariaDB
+OpenWP Turbo Engine is command-line control panel for WordPress sites running on:
+
+- [HHVM](http://hhvm.com/) or [PHP-FPM](http://www.php.net/manual/en/install.fpm.php)
+- [Docker](https://www.docker.io/)
+- [Deis](http://deis.io/)
+- [Nginx](http://nginx.org/)
+- [MariaDB](https://mariadb.org/)
